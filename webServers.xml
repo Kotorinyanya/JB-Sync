@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87abce99-abda-43fb-850c-270eb1a2800f" name="Remote Host (87abce99-abda-43fb-850c-270eb1a2800f)" url="http:///">
+        <fileTransfer host="121.48.165.31" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
